@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @p0ch1ta
+- 👀 I’m interested in Swift and MacOS development
