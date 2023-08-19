@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @p0ch1ta
+- 🎯 Familar with Java/Kotlin, JS/TS, Vue
 - 👀 I’m interested in Swift and MacOS development
